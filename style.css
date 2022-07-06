@@ -171,3 +171,87 @@ p {
     text-align: center;
     border-radius: 15px;
 }
+
+.fh {
+    color: black;
+}
+
+.fourth {
+    display: flex;
+    padding: 100px;
+}
+
+.picture {
+    size: 0px;
+    width: 60%;
+}
+
+.frth {
+    width: 50%;
+    text-align: center;
+    size: 80px;
+    font-size: large;
+    font-weight: bold;
+    height: 50px;
+    margin: 80px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.how {
+    color: white;
+    background-color: red;
+    width: 150px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.lst {
+    color: black;
+}
+
+.lt {
+    color: black;
+    padding: 2px;
+}
+
+.final {
+    display: flex;
+    background-color: bisque;
+    padding: 60px;
+    width: 700px;
+    text-align: center;
+    margin: auto;
+}
+
+.lastt {
+    background-color: whitesmoke;
+    padding: 20px;
+    padding-right: 250px;
+}
+
+.laast {
+    background-color: rgb(244, 146, 146);
+    padding: 20px;
+    padding-right: 300px;
+}
+
+.last {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.finish {
+    background-color: black;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+
+.fnsh {
+    color: firebrick;
+    font-family: 'Lobster', cursive;
+}
+
+.fns {
+    font-family: 'Hind', sans-serif;
+}
