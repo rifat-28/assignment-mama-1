@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    color: white;
+    color: whitesmoke;
     size: 80px;
     font-weight: bold;
     font-size: 90px;
@@ -8,6 +8,7 @@ h1 {
     width: 100%;
     padding: 120px;
     padding-left: 5px;
+    margin: 0px;
 }
 
 p {
@@ -17,19 +18,17 @@ p {
     display: block;
     height: auto;
     width: auto;
-    margin: 60px;
+    margin: 40px;
 }
 
 .hau {
     font-family: 'Nunito', sans-serif;
     background-image: url(images-01.jpeg);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     height: 1000px;
     width: 100%;
-    margin: 0%;
-    padding: 0%;
-    position: fixed;
+    padding: 2px;
 }
 
 .donate-align {
@@ -44,4 +43,58 @@ p {
 .donate {
     color: white;
     text-decoration: none;
+}
+
+.para {
+    color: black;
+    margin: 5px;
+}
+
+.bl {
+    color: black;
+    margin: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.tk {
+    display: flex;
+    color: red;
+    padding-left: 230px;
+
+}
+
+.tk10 {
+    color: gray;
+    background-color: burlywood;
+    width: 150px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+.tk20 {
+    color: gray;
+    background-color: burlywood;
+    width: 150px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+.tk50 {
+    color: gray;
+    background-color: burlywood;
+    width: 150px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+.tk100 {
+    color: gray;
+    background-color: burlywood;
+    width: 150px;
+    padding: 20px;
+    border-radius: 10px;
 }
